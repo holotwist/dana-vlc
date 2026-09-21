@@ -61,4 +61,3 @@ vlc-cache-gen <path_to_vlc_plugins_dir>
 ## License
 
 Apache License, Version 2.0. See [LICENSE](LICENSE) for details.
-```
